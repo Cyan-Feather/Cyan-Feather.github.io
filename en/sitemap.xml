@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>localhost:1313en/categories/</loc>
+    <loc>https://cyan-feather.github.io/en/categories/</loc>
   </url><url>
-    <loc>localhost:1313en/series/</loc>
+    <loc>https://cyan-feather.github.io/en/series/</loc>
   </url><url>
-    <loc>localhost:1313en/</loc>
+    <loc>https://cyan-feather.github.io/en/</loc>
   </url><url>
-    <loc>localhost:1313en/tags/</loc>
+    <loc>https://cyan-feather.github.io/en/tags/</loc>
   </url>
 </urlset>
