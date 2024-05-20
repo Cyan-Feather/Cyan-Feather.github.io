@@ -2,11 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://cyan-feather.github.io/en/post/</loc>
+    <lastmod>2024-05-20T16:32:02+08:00</lastmod>
+  </url><url>
+    <loc>https://cyan-feather.github.io/en/</loc>
+    <lastmod>2024-05-20T16:32:02+08:00</lastmod>
+  </url><url>
     <loc>https://cyan-feather.github.io/en/categories/</loc>
   </url><url>
     <loc>https://cyan-feather.github.io/en/series/</loc>
-  </url><url>
-    <loc>https://cyan-feather.github.io/en/</loc>
   </url><url>
     <loc>https://cyan-feather.github.io/en/tags/</loc>
   </url>
