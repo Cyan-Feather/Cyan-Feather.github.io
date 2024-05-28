@@ -6,6 +6,14 @@
     <description>Recent content in Categories on Cyan Feather</description>
     <generator>Hugo -- 0.126.1</generator>
     <language>zh</language>
+    <lastBuildDate>Wed, 30 Nov 2022 15:55:23 +0800</lastBuildDate>
     <atom:link href="https://cyan-feather.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Redis</title>
+      <link>https://cyan-feather.github.io/categories/redis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cyan-feather.github.io/categories/redis/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
