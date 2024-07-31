@@ -4,21 +4,35 @@
     <title>Tags on Cyan Feather</title>
     <link>https://cyan-feather.github.io/tags/</link>
     <description>Recent content in Tags on Cyan Feather</description>
-    <generator>Hugo -- 0.126.1</generator>
+    <generator>Hugo -- 0.130.0</generator>
     <language>zh</language>
-    <lastBuildDate>Wed, 30 Nov 2022 15:55:23 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2024 15:55:23 +0800</lastBuildDate>
     <atom:link href="https://cyan-feather.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Excel</title>
+      <link>https://cyan-feather.github.io/tags/excel/</link>
+      <pubDate>Wed, 31 Jul 2024 15:55:23 +0800</pubDate>
+      <guid>https://cyan-feather.github.io/tags/excel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>https://cyan-feather.github.io/tags/python/</link>
+      <pubDate>Wed, 31 Jul 2024 15:55:23 +0800</pubDate>
+      <guid>https://cyan-feather.github.io/tags/python/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Redis</title>
       <link>https://cyan-feather.github.io/tags/redis/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 30 Nov 2022 15:55:23 +0800</pubDate>
       <guid>https://cyan-feather.github.io/tags/redis/</guid>
       <description></description>
     </item>
     <item>
       <title>Tech</title>
       <link>https://cyan-feather.github.io/tags/tech/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 30 Nov 2022 15:55:23 +0800</pubDate>
       <guid>https://cyan-feather.github.io/tags/tech/</guid>
       <description></description>
     </item>
